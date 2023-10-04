@@ -1,7 +1,9 @@
+/*set background color */
 body {
   background-color: #AFE1AF;
 }
 
+/*placement, color, and font for hello world*/
 h1 {
   color: #40826D;
   font-size: 225px;
@@ -20,12 +22,14 @@ h2 {
   right: 75px;
 }
 
+/*additional nav-bar settings*/
 nav{
   background-color: #40826D;
   opacity: 0.5;
   color: #40826D;
 }
 
+/*description font, size, and placement*/
 p{
   width: 15%;
   font-size: 22px;
@@ -37,6 +41,7 @@ p{
   color: #40826D;
 }
 
+/*button settings*/
 .btn{
   background-color: #40826D;
   color: #AFE1AF;
